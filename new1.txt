@@ -1,3 +1,0 @@
-#This a text file for demo purpose
-Editing after first pull
-Hostname manju
